@@ -1,0 +1,1 @@
+{"version":3,"file":"Entity4.js","sourceRoot":"","sources":["../../src/entity/Entity4.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,qCAQiB;AACjB,uCAAoC;AAGpC,IAAa,OAAO,GAApB;CASC,CAAA;AANG;IADC,gCAAsB,EAAE;;mCACd;AAED;IAAT,gBAAM,EAAE;;qCAAc;AAGvB;IADC,mBAAS,CAAC,CAAC,CAAC,EAAE,CAAC,iBAAO,CAAC;8BACf,iBAAO;wCAAC;AARR,OAAO;IADnB,gBAAM,EAAE;GACI,OAAO,CASnB;AATY,0BAAO"}
